@@ -102,7 +102,7 @@ $ python
 
 ## Docking stage 1
 
-* MolA = Nsp8 - Solvent accessible active
+* MolA = Nsp8/7 dimer - Solvent accessible active
 * MolB = EXOSC2/3/5/8 - Surface passive
 
 Using "Optimize for Bioinformatics prediction" option
